@@ -4,7 +4,7 @@ This repository contains multiple Java projects, each organized under its respec
 
 - **algorithms/**:
   
-  CustomDrawing:
+  CustomDrawing: This is a Java application that allows users to draw lines and ovals using mouse movement, based on their selection. Instead of relying on Java Swing’s built-in drawing functions, it utilizes mathematical algorithms—specifically Bresenham's line algorithm and the Midpoint ellipse algorithm—to render shapes pixel by pixel.
 
   DijkstraAlgorithm:
 	
@@ -13,7 +13,5 @@ This repository contains multiple Java projects, each organized under its respec
   ImageFilterApp:
 		
   Permutations_Combinations:
-- **backend/** – Server-side API (Node.js):
-  The server-side API, developed in Node.js, is responsible for processing and storing patient data. It provides interfaces for data exchange with the frontend and manages communication with the database.
-- **dynamic_generator/** – dynamic version of web client (React):
-  This component is also based on React, but generates the user interface dynamically based on an external JSON configuration file. Developers can define new forms, fields, or logic by modifying this JSON file without having   to directly change the application code. This makes the web application flexibly adaptable and easy to respond to new requirements or deployment scenarios of the German Red Cross.
+
+  

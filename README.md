@@ -1,9 +1,17 @@
 # Multiple-Java-Projects
 
-This project consists of three main components:
+This repository contains multiple Java projects, each organized under its respective package structure.
 
-- **frontend/** – Web client (React):
-  The web client, developed with React, offers users an intuitive interface for entering and displaying patient data. The user interface is designed for ease of use in stressful emergency situations.
+- **algorithms/**:
+  CustomDrawing:
+
+  DijkstraAlgorithm:
+	
+  FordFulkerson:
+	
+  ImageFilterApp:
+		
+  Permutations_Combinations:
 - **backend/** – Server-side API (Node.js):
   The server-side API, developed in Node.js, is responsible for processing and storing patient data. It provides interfaces for data exchange with the frontend and manages communication with the database.
 - **dynamic_generator/** – dynamic version of web client (React):

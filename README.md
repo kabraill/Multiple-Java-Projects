@@ -29,3 +29,7 @@ This repository contains multiple Java projects, each organized under its respec
 - **library/**:
 
   **BibliotheksMenu:** A console-based library management system designed to efficiently manage library resources. This application allows users to perform essential operations such as adding, removing, and searching for books, as well as managing user records and borrowing activities.
+
+- **mn/**:
+
+  **main1:** A graphical user interface (GUI) application that allows users to open and process images. The application provides various tools for image manipulation, enabling users to apply edits, filters, and other enhancements to their images in an intuitive interface.

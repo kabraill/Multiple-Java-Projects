@@ -17,3 +17,11 @@ This repository contains multiple Java projects, each organized under its respec
 - **deep_learning/**:
 
   **diabetis_test:** A Java-based console application that analyzes medical data to predict the likelihood of diabetes in a patient. The program uses input features such as glucose level, BMI, age, and other health indicators to provide a diagnostic result, potentially based on rule-based logic or a simple machine learning model.
+
+- **gui/**:
+
+  **Calc:** A graphical user interface (GUI) calculator application designed with a functional layout and interactive buttons. While the interface is fully implemented, the backend logic for performing calculations has not yet been developed.
+
+  **ExtendedShapesExample:** A GUI-based Java application that demonstrates the rendering of various geometric shapes using Java Swing’s built-in drawing capabilities. It showcases how to utilize the Graphics API to create and display multiple shapes within a windowed interface.
+
+  **SLERPCircle:** A Java application that draws a gradient-colored circle by applying the mathematical principles of the Spherical Linear Interpolation (SLERP) function. This project demonstrates how the SLERP algorithm can be utilized to smoothly transition between colors along a circular path, producing a seamless gradient effect.

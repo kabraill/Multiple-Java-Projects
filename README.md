@@ -25,3 +25,7 @@ This repository contains multiple Java projects, each organized under its respec
   **ExtendedShapesExample:** A GUI-based Java application that demonstrates the rendering of various geometric shapes using Java Swing’s built-in drawing capabilities. It showcases how to utilize the Graphics API to create and display multiple shapes within a windowed interface.
 
   **SLERPCircle:** A Java application that draws a gradient-colored circle by applying the mathematical principles of the Spherical Linear Interpolation (SLERP) function. This project demonstrates how the SLERP algorithm can be utilized to smoothly transition between colors along a circular path, producing a seamless gradient effect.
+
+- **library/**:
+
+  **BibliotheksMenu:** A console-based library management system designed to efficiently manage library resources. This application allows users to perform essential operations such as adding, removing, and searching for books, as well as managing user records and borrowing activities.

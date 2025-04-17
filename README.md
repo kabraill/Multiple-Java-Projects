@@ -14,4 +14,6 @@ This repository contains multiple Java projects, each organized under its respec
 		
   **Permutations_Combinations:** This application implements four algorithms to generate and display all possible permutations and combinations of a given set, rather than merely calculating the total count of possible outcomes.
 
-  
+- **deep_learning/**:
+
+  **diabetis_test:** A Java-based console application that analyzes medical data to predict the likelihood of diabetes in a patient. The program uses input features such as glucose level, BMI, age, and other health indicators to provide a diagnostic result, potentially based on rule-based logic or a simple machine learning model.
